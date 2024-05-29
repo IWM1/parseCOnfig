@@ -1,0 +1,4 @@
+note17PushtoWdataParams:
+  env: dev
+  wdataBaseUrl: xx
+  dataDnsBaseUrl: xx
